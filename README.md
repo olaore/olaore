@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey, I'm Ola
 
-<!--
-**olaore/olaore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ship fullstack products that scale.
 
-Here are some ideas to get you started:
+**5+ years** building production software for startups and agencies across Nigeria, UK, and the US. I've shipped everything from recruitment platforms to hybrid search systems handling hundreds of thousands of product categories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do:**
+- Build products end-to-end: system design → production → scale
+- Performance optimization (bundle size, load times, query speed)
+- Integrate AI capabilities (semantic search, RAG pipelines, LLM workflows)
+
+**Stack:**  
+React/Next.js · TypeScript · Python · Ruby on Rails · Node.js · Docker · AWS
+
+**Recent work:**
+- [Gigson.co](https://gigson.co) — Rebuilt frontend, cut bundle size 60%, improved load times 40%
+- Hybrid search system for European supply chain — made queries 30x faster with 99% accuracy on misspellings
+
+**Currently:**  
+Open to remote fullstack roles and contracts (GMT+1, overlaps with EU business hours)
+
+**Get in touch:**  
+[Email](mailto:olami.oredola@gmail.com) · [LinkedIn](https://linkedin.com/in/ola-oredola)
