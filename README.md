@@ -20,4 +20,4 @@ React/Next.js · TypeScript · Python · Ruby on Rails · Node.js · Docker · A
 Open to remote fullstack roles and contracts (GMT+1, overlaps with EU business hours)
 
 **Get in touch:**  
-[Email](mailto:ola@olaoredola.com) · [LinkedIn](https://linkedin.com/in/ola-oredola)
+[Email](mailto:ola@olaoredola.com) · [LinkedIn](https://linkedin.com/in/ola-oredola) · [Portfolio](https://olaoredola.com)
